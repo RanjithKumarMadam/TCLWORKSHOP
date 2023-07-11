@@ -10,3 +10,7 @@ This is the first tcl script
 
 ![image](https://github.com/RanjithKumarMadam/TCLWORKSHOP/assets/139199624/de95e4d8-2072-469d-bd09-44cff919b1f5)
 
+Creation os variables
+
+![image](https://github.com/RanjithKumarMadam/TCLWORKSHOP/assets/139199624/fb123a36-585c-4c5e-afa3-10108c6764db)
+
